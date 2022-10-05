@@ -1,10 +1,16 @@
 # EzGdClient (WIP)
-The EzGdClient is a Geometry Dash client that makes modifying your game files easier.
+The EzGdClient is a Geometry Dash client that makes modifying your game file easier.
 
 ![EzGdClient](https://i.imgur.com/nnxHYNu.png "EzGdClient")
 
 ## **Release**
 The release date is not clear. When I have all basic features done, I will release a first alpha version of the client.
+
+## **Installation**
+1. Download and install [Python](https://www.python.org/) (the program that runs the code)
+    - [Here](https://www.youtube.com/watch?v=ZRbirvsDQ-I) is a video on how to install Python
+
+2. Thats it! You can now open the application by double clicking on the "EzGdClient.pyw" file
 
 ## **Features**
 <details>
