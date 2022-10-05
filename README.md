@@ -41,3 +41,8 @@ The release date is not clear. When I have all basic features done, I will relea
     - [ ] go back to previous state
 - Add mods
     - [ ] f.e. mod menus
+
+---
+
+## **Contact**
+If you have any questions, found errors or got ideas for new features, feel free to post them in the specific discussion category.
