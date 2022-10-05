@@ -1,5 +1,5 @@
 # EzGdClient (WIP)
-The EzGdClient is a Geometry Dash client that makes modifying your game file easier.
+The EzGdClient is a Geometry Dash client that makes modifying your game files easier.
 
 ![EzGdClient](https://i.imgur.com/nnxHYNu.png "EzGdClient")
 
