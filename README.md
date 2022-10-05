@@ -3,12 +3,8 @@ The EzGdClient is a Geometry Dash client that makes modifying your game file eas
 
 ![EzGdClient](https://i.imgur.com/nnxHYNu.png "EzGdClient")
 
----
-
 ## **Release**
 The release date is not clear. When I have all basic features done, I will release a first alpha version of the client.
-
----
 
 ## **Features**
 <details>
@@ -26,8 +22,6 @@ The release date is not clear. When I have all basic features done, I will relea
 - Change game sounds
     - explode sound
 
----
-
 ## **Todo**
 - Manage instances
     - [ ] create instance
@@ -41,8 +35,6 @@ The release date is not clear. When I have all basic features done, I will relea
     - [ ] go back to previous state
 - Add mods
     - [ ] f.e. mod menus
-
----
 
 ## **Contact**
 If you have any questions, found errors or got ideas for new features, feel free to post them in the specific discussion category.
