@@ -5,6 +5,13 @@ The EzGdClient is a Geometry Dash client that makes modifying your game file eas
 
 ---
 
+## **Release**
+**Estimated release date:** unknown
+
+The release date is not clear. When I have all basic features done, I will release a first alpha version of the client.
+
+---
+
 ## **Features**
 <details>
   <summary><b>Disclamer</b></summary>
