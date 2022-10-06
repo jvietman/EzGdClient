@@ -32,17 +32,21 @@ The release date is not clear. When I have all basic features done, I will relea
 
 ## **Todo**
 - Manage instances
-    - [ ] create instance
+    - [X] create instance
 - Client settings
     - [ ] change client theme
 - Change game sounds
     - [ ] original music
     - [ ] newgrounds music
 - Manage texturepacks
-    - [ ] add texturepacks
-    - [ ] go back to previous state
+    - [X] add texturepacks
+    - [X] go back to previous state
+    - [ ] loading screen (current processes, percentage, progress bar)
 - Add mods
     - [ ] f.e. mod menus
+
+## **Errors**
+- cannot start 2.1 version
 
 ## **Contact**
 If you have any questions, found errors or got ideas for new features, feel free to post them in the specific discussion category.
