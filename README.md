@@ -31,11 +31,15 @@ The release date is not clear. When I have all basic features done, I will relea
     - explode sound
 
 ## **Todo**
+- [ ] Import instances
 - Manage instances
     - [X] create instance
 - Client settings
     - [ ] change client theme
 - Change game sounds
+    - [x] menu music
+    - [x] practise music
+    - [x] finish sound
     - [ ] original music
     - [ ] newgrounds music
 - Manage texturepacks
@@ -47,6 +51,12 @@ The release date is not clear. When I have all basic features done, I will relea
 
 ## **Errors**
 - cannot start 2.1 version
+
+## **Screenshots**
+These screenshots were taken of the early state of the client.
+
+![EzGdClient](https://i.imgur.com/a8CjjAh.png "EzGdClient")
+![EzGdClient](https://i.imgur.com/oGFqgkn.png "EzGdClient")
 
 ## **Contact**
 If you have any questions, found errors or got ideas for new features, feel free to post them in the specific discussion category.
