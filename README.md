@@ -31,6 +31,7 @@ The release date is not clear. When I have all basic features done, I will relea
     - explode sound
 
 ## **Todo**
+*Basic Features:*
 - [ ] Import instances
 - Manage instances
     - [X] create instance
@@ -45,9 +46,17 @@ The release date is not clear. When I have all basic features done, I will relea
 - Manage texturepacks
     - [X] add texturepacks
     - [X] go back to previous state
+*Extra Features:*
+- Client settings
+    - [ ] previews
+    - [ ] theme editor
+- Manage texturepacks
+    - [ ] previews
     - [ ] loading screen (current processes, percentage, progress bar)
+    - [ ] workshop (upload & download)
 - Add mods
     - [ ] f.e. mod menus
+    - [ ] workshop (upload & download)
 
 ## **Errors**
 - cannot start 2.1 version
