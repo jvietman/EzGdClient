@@ -46,6 +46,7 @@ The release date is not clear. When I have all basic features done, I will relea
 - Manage texturepacks
     - [X] add texturepacks
     - [X] go back to previous state
+    
 *Extra Features:*
 - Client settings
     - [ ] previews
