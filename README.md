@@ -4,7 +4,7 @@ The EzGdClient is a Geometry Dash client that makes modifying your game file eas
 ![EzGdClient](https://i.imgur.com/nnxHYNu.png "EzGdClient")
 
 ## **Release**
-The release date is not clear. When I have all basic features done, I will release a first alpha version of the client.
+The release date is not clear. When I have all basic features done (see todo list, I will release a first alpha version of the client.
 
 <!--
 ## **Installation**
@@ -18,29 +18,23 @@ The release date is not clear. When I have all basic features done, I will relea
 <details>
   <summary><b>Disclamer</b></summary>
 
-  *The EzGdClient is still in development. This means that some features may be added or removed in further development.*
+  *The EzGdClient is still in development. This means that some features may be added or removed in further development. You are able to see all features that are planned for the basic and extra version of the client here as a todo list.*
 </details>
 
-- Manage instances
-    - start, close and restart game
-    - select instance
-    - open instance folder
-- Create instances
-    - supports version 2.1, 2.0 GDPS, 1.9 GDPS
-- Change game sounds
-    - explode sound
-
-## **Todo**
 *Basic Features:*
 - [ ] Import instances
 - Manage instances
-    - [X] create instance
+    - [X] create instance (versions 2.1, 2.0 GDPS, 1.9 GDPS)
+    - [X] start, close and restart game
+    - [X] select instance
+    - [X] open instance folder
 - Client settings
     - [ ] change client theme
 - Change game sounds
-    - [x] menu music
-    - [x] practise music
-    - [x] finish sound
+    - [X] explode sound
+    - [X] menu music
+    - [X] practise music
+    - [X] finish sound
     - [ ] original music
     - [ ] newgrounds music
 - Manage texturepacks
